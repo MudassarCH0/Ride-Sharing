@@ -20,6 +20,8 @@ The project was Zuber, a new ride-sharing company launching in Chicago. Working 
 * Tools
   * SQL Database
 * Data
+
+
   ![image](https://github.com/user-attachments/assets/e53b5722-42f6-4110-af84-5af4272ea27b)
  
  
