@@ -37,7 +37,7 @@ The project was on Zuber, a new ride-sharing company launching in Chicago. It in
 \
 ***Result***<br>
 
-* Total number of taxi services were 25 
+* Total number of taxi services were 15 
 * Most popular taxi companies were Flash Cab and Taxi Affiliation
 * Under bad weather condition taxi service delayed on average by 30-45 minutes<br><br>
 
