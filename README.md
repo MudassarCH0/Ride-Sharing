@@ -11,14 +11,14 @@
 \
 ***Description***<br>
 
-The project was Zuber, a new ride-sharing company launching in Chicago. Working with a taxi database, analyzed data and tested a hypothesis about the impact of weather on ride frequency from O'hare International Airport. 
+The project was on Zuber, a new ride-sharing company launching in Chicago. It involed working with a taxi database to to find patterns in data and understand passenger preferences and the impact of external factors on rides from O'hare International Airport. 
 
 
 \
 ***Tools & Data***<br>
 
 * Tools
-  * SQL Database
+  * SQL (Structured Query Language)
 * Data
 
 
@@ -30,7 +30,7 @@ The project was Zuber, a new ride-sharing company launching in Chicago. Working 
 ***Execution***<br>
 
 * Data Processing: None 
-* Key Performance Indicators (KPIs): number of apps, total reviews, average reviews, average rating, sum of rating, review per developer, developer responsiveness, App reviews count
+* Metrics: trip amount per company, trip duration, popular taxi companies, trip delay due to weather  
 * Visualization: None
 * Process: exploratory data analysis to find number of taxi rides for each taxi company, most popular taxi companies, weather condition records, trip amount, impact on rides under severe weather conditions  
 
