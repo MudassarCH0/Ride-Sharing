@@ -11,7 +11,7 @@
 \
 ***Description***<br>
 
-The project was on Zuber, a new ride-sharing company launching in Chicago. It involed working with a taxi database to to find patterns in data and understand passenger preferences and the impact of external factors on rides from O'hare International Airport. 
+The project was on Zuber, a new ride-sharing company launching in Chicago. It involved working with a taxi database to find patterns in data and understand passenger preferences and the impact of external factors on rides from O'hare International Airport. 
 
 
 \
